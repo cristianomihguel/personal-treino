@@ -9,12 +9,12 @@ body {
 h1 {
     color: #0077ff;
     font-size: 36px;
-    font_family: Georgia, serif;
+    font-family: Georgia, serif;
 }
 
 p {
     font-size: 18px;
-    font_family: Georgia, serif;
+    font-family: Georgia, serif;
     background-color: #ffffff;
     border: 2px solid #0077ff;
     border-radius: 10px;
